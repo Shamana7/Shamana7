@@ -6,10 +6,9 @@
 I'm an Android developer who codes not just for logic, but for feeling.   
 Currently building infotainment apps at Harman International for the MSIL project.
 
-## 🛠️ Skills
-Kotlin · Java · SQL · Jetpack Compose · MVVM · Firebase · Retrofit · Room DB · Hilt · Coroutines · Navigation Component · LiveData · ViewModel · Material Design 3 · Kotlin Flows · Clean Architecture · RESTful APIs · Multithreading · OOP · Data Structures & Algorithms · Android Studio · Gradle · Git & GitHub · Logcat · ADB · Gerrit
+🚀 Recently contributed to [ComposeCookBook — added infinite backward scrolling to the Carousel Pager](https://github.com/Gurupreet/ComposeCookBook/pull/177)   
 
-## 📫 Contact
+### 📫 Contact
 📧 shamanashetty7779@gmail.com  
 📍 Bangalore, India
 
